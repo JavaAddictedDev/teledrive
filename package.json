@@ -1,0 +1,32 @@
+{
+  "name": "teledrive",
+  "version": "1.0.0",
+  "description": "Aplicação desenvolvida para auxiliar na syncronização de canais do telegram com google drive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavaAddictedDev/teledrive.git"
+  },
+  "keywords": [
+    "google",
+    "drive",
+    "mirror",
+    "telegram",
+    "sync",
+    "stream"
+  ],
+  "author": "Gabriel Valdivia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JavaAddictedDev/teledrive/issues"
+  },
+  "homepage": "https://github.com/JavaAddictedDev/teledrive#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.7.1",
+    "@commitlint/config-conventional": "^17.7.0",
+    "husky": "^8.0.3"
+  }
+}

@@ -1,0 +1,9 @@
+node_modules/
+npm-debug.log
+.npm
+.lock-wscript
+build/
+coverage/
+docs/
+test/
+.env
